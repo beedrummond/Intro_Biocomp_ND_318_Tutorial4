@@ -1,6 +1,6 @@
-Lion King
-Finding Dory
-Forrest Gump
-Wall-E
-Leathal Weapon
-Free Willy
+1.  Lion King
+6.  Finding Dory
+5.  Forrest Gump
+2.  Wall-E
+4.  Lethal Weapon
+3.  Free Willy
