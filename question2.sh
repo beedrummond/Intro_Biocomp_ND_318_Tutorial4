@@ -1,5 +1,5 @@
 # question 2 excercise 4
-# $1 is the file name
+# $1 is the file name that you are working on
 
 echo highest earner
 cat "$1" | tr "," " " | cut -d" " -f1,2,4 | sort -k3n | tail -1
