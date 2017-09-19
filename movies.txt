@@ -1,6 +1,6 @@
-1.  Lion King
-6.  Finding Dory
-5.  Forrest Gump
-2.  Wall-E
-4.  Lethal Weapon
-3.  Free Willy
+Lion King
+Finding Dory
+Lethal Weapon
+Forrest Gump
+Free Willy
+Wall-E
